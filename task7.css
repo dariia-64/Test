@@ -1,0 +1,14 @@
+
+.styled-list {
+    background-color: beige; 
+    list-style-type: circle; 
+    list-style-position: inside; 
+    padding: 20px; 
+    margin: 0; 
+}
+
+
+.styled-list li {
+    color: green; 
+    margin-bottom: 10px; 
+}
